@@ -1,0 +1,12 @@
+[
+  {
+    "gameName":"Mind Tricks 1",
+    "gameImage":"https://bluewineapps.github.io/mindtricks/level1/mindtrick-1.png",
+    "gameFile":"https://bluewineapps.github.io/mindtricks/level1/mind-trick-1.json"
+  },
+  {
+    "gameName":"Mind Tricks 2",
+    "gameImage":"https://bluewineapps.github.io/mindtricks/level2/mindtrick-2.png",
+    "gameFile":"https://bluewineapps.github.io/mindtricks/level2/mind-trick-2.json"
+  }
+]
