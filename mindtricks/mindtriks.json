@@ -8,5 +8,9 @@
     "gameName":"Mind Tricks 2",
     "gameImage":"https://bluewineapps.github.io/mindtricks/level2/mindtrick-2.png",
     "gameFile":"https://bluewineapps.github.io/mindtricks/level2/mind-trick-2.json"
+  },{
+    "gameName":"TRICKY MATH 1",
+    "gameImage":"https://bluewineapps.github.io/mindtricks/level3/mindtrick-3.png",
+    "gameFile":"https://bluewineapps.github.io/mindtricks/level3/mind-trick-3.json"
   }
 ]
