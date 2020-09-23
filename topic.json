@@ -1,93 +1,93 @@
 [
   {
-    "topic_id": "50p4ge2s4jrj3wq4v",
-    "topic_name": "attitude",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/attitude.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq4v",
+    "topicName": "attitude",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/attitude.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq50",
-    "topic_name": "art",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/art.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq50",
+    "topicName": "art",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/art.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq51",
-    "topic_name": "abstract",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/abstract.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq51",
+    "topicName": "abstract",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/abstract.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq52",
-    "topic_name": "birthday",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/birthday.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq52",
+    "topicName": "birthday",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/birthday.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq53",
-    "topic_name": "beauty",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/beauty.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq53",
+    "topicName": "beauty",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/beauty.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq54",
-    "topic_name": "books",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/books.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq54",
+    "topicName": "books",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/books.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq56",
-    "topic_name": "boys",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/boys.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq56",
+    "topicName": "boys",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/boys.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq55",
-    "topic_name": "startup",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/startup.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq55",
+    "topicName": "startup",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/startup.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq57",
-    "topic_name": "college",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/college.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq57",
+    "topicName": "college",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/college.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq58",
-    "topic_name": "celebrations",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/celebrations.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq58",
+    "topicName": "celebrations",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/celebrations.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq59",
-    "topic_name": "emotions",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/emotions.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq59",
+    "topicName": "emotions",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/emotions.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq5a",
-    "topic_name": "fitness",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/fitness.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq5a",
+    "topicName": "fitness",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/fitness.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   },
   {
-    "topic_id": "50p4ge2s4jrj3wq5b",
-    "topic_name": "funny",
-    "img_app": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/funny.jpg",
-    "topic_type": "general",
-    "topic_status": "approved"
+    "topicId": "50p4ge2s4jrj3wq5b",
+    "topicName": "funny",
+    "imgApp": "https://s3.ap-south-1.amazonaws.com/captionplus/categories/funny.jpg",
+    "topicType": "general",
+    "topicStatus": "approved"
   }
 ]
