@@ -1,42 +1,25 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "624W2JC8H4.com.jifmeet.meet",
-                "paths": [
-                    "NOT /web/*",
-                    "/a*",
-                    "/b*",
-                    "/c*",
-                    "/d*",
-                    "/e*",
-                    "/f*",
-                    "/g*",
-                    "/h*",
-                    "/i*",
-                    "/j*",
-                    "/k*",
-                    "/l*",
-                    "/m*",
-                    "/n*",
-                    "/o*",
-                    "/p*",
-                    "/q*",
-                    "/r*",
-                    "/s*",
-                    "/t*",
-                    "/u*",
-                    "/v*",
-                    "/w*",
-                    "/x*",
-                    "/y*",
-                    "/z*",
-                    "/*",
-                    "*"
-                ]
-            }
-        ]
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+        "appID": "624W2JC8H4.com.jifmeet.meet",
+                "paths": ["*"],
+             "appIDs": [ 
+             "624W2JC8H4.com.jifmeet.meet"],
+             "components": [
+                    {
+                  "/": "/*",
+                  "comment": "Matches any URL whose path starts with /"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": []
+   },
+    "appclips": {
+        "apps": []
     }
-}
 
